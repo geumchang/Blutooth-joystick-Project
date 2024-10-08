@@ -56,7 +56,7 @@ void loop() {
       case PREVIOUS_BUTTON: {bluetooth.write('5'); 	delay(DATA_TRANSMISSION_DELAY); break; }
       case BLIND_BUTTON:    {bluetooth.write('4'); 	delay(DATA_TRANSMISSION_DELAY); break; }
       case ENTER_STATE:     {bluetooth.write('6'); 	delay(DATA_TRANSMISSION_DELAY); break; }
-	    case JOYSTICK_LEFT:   {bluetooth.write('7'); 	delay(DATA_TRANSMISSION_DELAY); break; }
+      case JOYSTICK_LEFT:   {bluetooth.write('7'); 	delay(DATA_TRANSMISSION_DELAY); break; }
       case JOYSTICK_RIGHT: 	{bluetooth.write('8'); 	delay(DATA_TRANSMISSION_DELAY); break; }
       case JOYSTICK_UP:    	{bluetooth.write('9'); 	delay(DATA_TRANSMISSION_DELAY); break; }
       case JOYSTICK_DOWN:   {bluetooth.write('0'); delay(DATA_TRANSMISSION_DELAY); break; }
