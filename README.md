@@ -10,5 +10,11 @@
 
 
 # 프로젝트 상세 개요
-- 기간 : 2024-07-01 ~ 2024.08.31
+- 기간 : 2024.07.01 ~ 2024.08.31
 - 프로젝트 주요 언어 : C++(아두이노 라이브러리)
+
+# 주요 이미지 및 동작 영상
+<img src = "https://github.com/user-attachments/assets/0d519948-eb50-4037-afaa-1333cd7e3b5a" width="30%" height = "30%">
+<img src = "https://github.com/user-attachments/assets/2b472439-e846-47fc-a322-419062cafb6f" width="50%" height = "50%">
+
+![제목 없는 동영상 - Clipchamp로 제작](https://github.com/user-attachments/assets/0b08115a-5848-4a69-a554-54c0110d3be9)
